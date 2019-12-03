@@ -1,3 +1,6 @@
+Link to Codepen project: https://codepen.io/devin44g/pen/OJJKWWy
+
+
 1. What is Semantic HTML?
     -> Tags which introduce meaning to one's webpage.
 
